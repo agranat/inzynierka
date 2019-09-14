@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="CSS/Extract inline CSS" />
+    <ignoreAction name="XML/Convert attribute to child element" />
   </component>
 </application>
